@@ -1,0 +1,12 @@
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.deps.json
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.csproj.AssemblyReference.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.AssemblyInfoInputs.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.AssemblyInfo.cs
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\refint\ETicaret.DataAccessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ETicaret.DataAccessLayer.pdb
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net6.0\ref\ETicaret.DataAccessLayer.dll

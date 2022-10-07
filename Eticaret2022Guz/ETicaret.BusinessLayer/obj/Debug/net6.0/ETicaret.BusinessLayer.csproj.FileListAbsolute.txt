@@ -1,0 +1,12 @@
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.deps.json
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\bin\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.AssemblyReference.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfoInputs.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.AssemblyInfo.cs
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\refint\ETicaret.BusinessLayer.dll
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ETicaret.BusinessLayer.pdb
+C:\GitHub\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BusinessLayer\obj\Debug\net6.0\ref\ETicaret.BusinessLayer.dll
