@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{0A9DC7DA-79C9-434A-B5BA-3F82D3BB5A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{0A9DC7DA-79C9-434A-B5BA-3F82D3BB5A05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.EntityLayer", "ETicaret.EntityLayer\ETicaret.EntityLayer.csproj", "{E09FF16E-D41B-402D-A5BB-B50B8AEC982B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.EntityLayer", "ETicaret.EntityLayer\ETicaret.EntityLayer.csproj", "{E09FF16E-D41B-402D-A5BB-B50B8AEC982B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.DataAccessLayer", "ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj", "{C1D97AD4-A45B-4F45-AFF5-77EF18A07B54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.DataAccessLayer", "ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj", "{C1D97AD4-A45B-4F45-AFF5-77EF18A07B54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.BusinessLayer", "ETicaret.BusinessLayer\ETicaret.BusinessLayer.csproj", "{7077E58A-4883-48BA-BD1B-865204A67C1E}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dokumantasyon", "Dokumantasyon", "{419230FD-9A48-440F-8AA4-F2E22F6E801A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.BusinessLayer", "ETicaret.BusinessLayer\ETicaret.BusinessLayer.csproj", "{7077E58A-4883-48BA-BD1B-865204A67C1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

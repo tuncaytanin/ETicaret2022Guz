@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {}
+    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
+    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
         "projectName": "ETicaret.DataAccessLayer",
-        "projectPath": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\tunca\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
-                "projectPath": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj"
+              "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
+                "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj"
               }
             }
           }
@@ -43,14 +43,39 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -59,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
+    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
+        "projectUniqueName": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
         "projectName": "ETicaret.EntityLayer",
-        "projectPath": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
+        "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\tunca\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\obj\\",
+        "outputPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,8 +129,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -114,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

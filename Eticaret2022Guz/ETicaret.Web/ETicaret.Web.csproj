@@ -11,4 +11,9 @@
     <ProjectReference Include="..\ETicaret.EntityLayer\ETicaret.EntityLayer.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Dal\" />
+    <Folder Include="NewFolder\" />
+  </ItemGroup>
+
 </Project>

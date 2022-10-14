@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ETicaret.EntityLayer.Abstract
 {
-    internal interface IEntity
+    public interface IEntity
     {
     }
 }
