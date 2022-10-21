@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ETicaret.BusinessLayer\ETicaret.BusinessLayer.csproj" />
-    <ProjectReference Include="..\ETicaret.EntityLayer\ETicaret.EntityLayer.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Dal\" />
     <Folder Include="NewFolder\" />
   </ItemGroup>
