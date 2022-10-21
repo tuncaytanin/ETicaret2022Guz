@@ -1,0 +1,12 @@
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\bin\Debug\net5.0\ETicaret.EntityLayer.deps.json
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\bin\Debug\net5.0\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\bin\Debug\net5.0\ETicaret.EntityLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.csproj.AssemblyReference.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.AssemblyInfoInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.AssemblyInfo.cs
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.csproj.CoreCompileInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\refint\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ETicaret.EntityLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.EntityLayer\obj\Debug\net5.0\ref\ETicaret.EntityLayer.dll
