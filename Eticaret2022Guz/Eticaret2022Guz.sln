@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.WepAPI", "Eticaret
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Desktop", "Eticaret.Desktop\Eticaret.Desktop.csproj", "{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Core", "Eticaret.Core\Eticaret.Core.csproj", "{73985CF2-5509-4F55-8330-9261C78B6031}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73985CF2-5509-4F55-8330-9261C78B6031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73985CF2-5509-4F55-8330-9261C78B6031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73985CF2-5509-4F55-8330-9261C78B6031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73985CF2-5509-4F55-8330-9261C78B6031}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
