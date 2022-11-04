@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace ETicaret.EntityLayer.Concretes
 {
-    public class Adress :IEntity
+    public class Adress : IEntity
     {
         public int AdressId { get; set; }
         public string AdressName { get; set; }
@@ -16,7 +16,7 @@ namespace ETicaret.EntityLayer.Concretes
 
         public string AdressDescription { get; set; }
 
-        public int CustomerId { get; set; }
-        public Customer Customer { get; set; }
+        //public int CustomerId { get; set; }
+        //public Customer Customer { get; set; }
     }
 }
