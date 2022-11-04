@@ -1,15 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32901.82
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{B40A0B45-B199-48A1-A95B-8BBE605DA267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.Web", "ETicaret.Web\ETicaret.Web.csproj", "{B40A0B45-B199-48A1-A95B-8BBE605DA267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.BussinessLayer", "ETicaret.BussinessLayer\ETicaret.BussinessLayer.csproj", "{FCCD470A-650E-4DFD-BB3F-E114B4451B9A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.BussinessLayer", "ETicaret.BussinessLayer\ETicaret.BussinessLayer.csproj", "{FCCD470A-650E-4DFD-BB3F-E114B4451B9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.DataAccessLayer", "ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj", "{A883C08B-92A6-4C82-A148-520F0A165CD1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.DataAccessLayer", "ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj", "{A883C08B-92A6-4C82-A148-520F0A165CD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETicaret.EntityLayer", "ETicaret.EntityLayer\ETicaret.EntityLayer.csproj", "{B4F197F8-0ED1-4BD9-AB9A-B3A9E78DCFE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ETicaret.EntityLayer", "ETicaret.EntityLayer\ETicaret.EntityLayer.csproj", "{B4F197F8-0ED1-4BD9-AB9A-B3A9E78DCFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.WepAPI", "Eticaret.WepAPI\Eticaret.WepAPI.csproj", "{CC32F62E-952C-4490-81F5-BDC0354FFF80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eticaret.Desktop", "Eticaret.Desktop\Eticaret.Desktop.csproj", "{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{B4F197F8-0ED1-4BD9-AB9A-B3A9E78DCFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4F197F8-0ED1-4BD9-AB9A-B3A9E78DCFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4F197F8-0ED1-4BD9-AB9A-B3A9E78DCFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC32F62E-952C-4490-81F5-BDC0354FFF80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC32F62E-952C-4490-81F5-BDC0354FFF80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC32F62E-952C-4490-81F5-BDC0354FFF80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC32F62E-952C-4490-81F5-BDC0354FFF80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{313B568A-4D1B-4319-80B3-02B0F1ABEC6C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
