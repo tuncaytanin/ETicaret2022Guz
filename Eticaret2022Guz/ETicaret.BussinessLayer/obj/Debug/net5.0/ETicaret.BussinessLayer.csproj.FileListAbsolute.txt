@@ -1,11 +1,16 @@
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.deps.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.AssemblyReference.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.AssemblyInfoInputs.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.AssemblyInfo.cs
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.CopyComplete
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\refint\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.pdb
