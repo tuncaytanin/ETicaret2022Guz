@@ -1,0 +1,12 @@
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.deps.json
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.csproj.AssemblyReference.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.AssemblyInfoInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.AssemblyInfo.cs
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\refint\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\ref\Eticaret.Core.dll
