@@ -1,7 +1,12 @@
+using ETicaret.BussinessLayer.Abstract;
+using ETicaret.BussinessLayer.Concrete;
+using ETicaret.DataAccessLayer.Concretes.Contexts;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -26,12 +31,16 @@ namespace Eticaret.WepAPI
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Hangi SqL ba?lanaca??m? bildirmem gerekiyor
+            services.AddDbContext<ApplicationDbContext>(opt => opt.UseSqlServer("Data Source=TANINPC;database=DbETradeMvc22-23-Guz;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False", options => options.MigrationsAssembly("ETicaret.DataAccessLayer").MigrationsHistoryTable(HistoryRepository.DefaultTableName,"dbo")));
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Eticaret.WepAPI", Version = "v1" });
             });
+
+            services.AddTransient<ICustomerService, CustomerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
