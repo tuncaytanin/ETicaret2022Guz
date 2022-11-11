@@ -1,6 +1,8 @@
 using ETicaret.BussinessLayer.Abstract;
 using ETicaret.BussinessLayer.Concrete;
+using ETicaret.DataAccessLayer.Abstracts;
 using ETicaret.DataAccessLayer.Concretes.Contexts;
+using ETicaret.DataAccessLayer.EntityFrameWorks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -41,6 +43,7 @@ namespace Eticaret.WepAPI
             });
 
             services.AddTransient<ICustomerService, CustomerService>();
+            services.AddTransient<ICustomerDal, EfCustomerRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
