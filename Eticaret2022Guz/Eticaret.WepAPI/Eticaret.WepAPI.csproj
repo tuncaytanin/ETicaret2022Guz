@@ -10,6 +10,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ETicaret.BussinessLayer\ETicaret.BussinessLayer.csproj" />
+    <ProjectReference Include="..\ETicaret.EntityLayer\ETicaret.EntityLayer.csproj" />
   </ItemGroup>
 
 </Project>
