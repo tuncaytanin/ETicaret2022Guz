@@ -14,3 +14,8 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-wind
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.genruntimeconfig.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\ref\Eticaret.Desktop.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.FormCustomer.resources
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.GenerateResource.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CopyComplete

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0-windows7.0": {
+      "ETicaret.EntityLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/ETicaret.EntityLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ETicaret.EntityLayer.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ETicaret.EntityLayer/1.0.0": {
+      "type": "project",
+      "path": "../ETicaret.EntityLayer/ETicaret.EntityLayer.csproj",
+      "msbuildProject": "../ETicaret.EntityLayer/ETicaret.EntityLayer.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0-windows7.0": [
+      "ETicaret.EntityLayer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tunca\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
+              "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

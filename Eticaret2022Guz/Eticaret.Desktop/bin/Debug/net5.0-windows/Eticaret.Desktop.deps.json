@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "Eticaret.Desktop/1.0.0": {
+        "dependencies": {
+          "ETicaret.EntityLayer": "1.0.0"
+        },
         "runtime": {
           "Eticaret.Desktop.dll": {}
+        }
+      },
+      "ETicaret.EntityLayer/1.0.0": {
+        "runtime": {
+          "ETicaret.EntityLayer.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Eticaret.Desktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ETicaret.EntityLayer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
