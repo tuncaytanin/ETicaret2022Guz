@@ -44,8 +44,6 @@ namespace Eticaret.WepAPI
 
             services.AddTransient<ICustomerService, CustomerService>();
             services.AddTransient<ICustomerDal, EfCustomerRepository>();
-            services.AddTransient<ICategoryService, CategoryService>();
-            services.AddTransient<ICategoryDal, EfCategoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
