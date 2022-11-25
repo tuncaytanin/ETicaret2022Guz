@@ -15,6 +15,9 @@ namespace Eticaret.Desktop
 {
     public partial class FormCustomer : Form
     {
+
+        // urllerimiz statik olarak kod içerisinde verdik.Bu bad smels.. 
+        // todo url adreslerini config dosya üzerinden okuma yapmalıyız
         private string url = "https://localhost:44374/api/";
 
         public FormCustomer()
