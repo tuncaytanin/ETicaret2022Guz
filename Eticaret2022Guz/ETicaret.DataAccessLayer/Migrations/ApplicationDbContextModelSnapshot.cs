@@ -19,42 +19,6 @@ namespace ETicaret.DataAccessLayer.Migrations
                 .HasAnnotation("ProductVersion", "5.0.17")
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("ETicaret.EntityLayer.Concretes.Category", b =>
-                {
-                    b.Property<int>("CategoryId")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<string>("CategoryName")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.Property<bool>("CategoryStatus")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("bit")
-                        .HasDefaultValue(true);
-
-                    b.Property<short>("SortKey")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("smallint")
-                        .HasDefaultValue((short)0);
-
-                    b.HasKey("CategoryId");
-
-                    b.ToTable("Categories");
-
-                    b.HasData(
-                        new
-                        {
-                            CategoryId = 1,
-                            CategoryName = "Elektronik",
-                            CategoryStatus = true,
-                            SortKey = (short)1
-                        });
-                });
-
             modelBuilder.Entity("ETicaret.EntityLayer.Concretes.Customer", b =>
                 {
                     b.Property<int>("CustomerId")
@@ -112,7 +76,7 @@ namespace ETicaret.DataAccessLayer.Migrations
                         {
                             CustomerId = 1,
                             BirthDay = new DateTime(2000, 1, 1, 0, 0, 0, 0, DateTimeKind.Unspecified),
-                            CreateDate = new DateTime(2022, 11, 25, 17, 8, 20, 681, DateTimeKind.Local).AddTicks(8896),
+                            CreateDate = new DateTime(2022, 11, 4, 18, 41, 53, 945, DateTimeKind.Local).AddTicks(5961),
                             CustomerEmail = "tt@gmail.com",
                             CustomerLastName = "Tanin",
                             CustomerName = "Tuncay",
