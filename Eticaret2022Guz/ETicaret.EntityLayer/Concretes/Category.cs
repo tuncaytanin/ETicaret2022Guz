@@ -7,10 +7,10 @@ namespace ETicaret.EntityLayer.Concretes
     {
         public int CategoryId { get; set; }
         public string CategoryName { get; set; }
-        public bool CategoryStatu { get; set; }
+        public bool CategoryStatus { get; set; }
 
         public short SortKey { get; set; }
 
-        public ICollection<SubCategory> SubCategories { get; set; }
+      //  public ICollection<SubCategory> SubCategories { get; set; }
     }
 }
