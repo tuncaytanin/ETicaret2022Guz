@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/I551fyLJelxy/f3+t+Xdjzkn27pCRwnHgh4CKv3dGR6rlV7WYDh3PGzxwzK6vLhy9Wo3Xds/jPz2D0i2ypyKg==",
+  "dgSpecHash": "mqkM4N/xdaF7wDVO8nddci9yaKGyTKbTeTZyRrJpWKF8acuyXuIdutn7z0s0whn3Qzab1zyxswRtyuDiUUv6Ug==",
   "success": true,
-  "projectFilePath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccesLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tunca\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\tunca\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

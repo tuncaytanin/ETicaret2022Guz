@@ -1,12 +1,11 @@
-﻿using ETicaret.EntityLayer.Abstracts;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace ETicaret.DataAccessLayer.Abstracts
 {
-    public interface IGenericDal<TEntity> where TEntity : class, IEntity, new()
+    public interface IGenericDal<TEntity> where TEntity : class
     {
         /// <summary>
         /// Ekleme işle.

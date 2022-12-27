@@ -5,8 +5,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ETicaret.DataAccessLayer\ETicaret.DataAccessLayer.csproj" />
-    <ProjectReference Include="..\ETicaret.EntityLayer\ETicaret.EntityLayer.csproj" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Eticaret.Core\Eticaret.Core.csproj" />
   </ItemGroup>
 
 </Project>

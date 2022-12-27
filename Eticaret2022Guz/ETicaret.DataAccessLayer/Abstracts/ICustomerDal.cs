@@ -1,4 +1,4 @@
-﻿using ETicaret.EntityLayer.Concretes;
+﻿using Eticaret.Core.Models;
 
 namespace ETicaret.DataAccessLayer.Abstracts
 {

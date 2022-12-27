@@ -1,15 +1,14 @@
-﻿using ETicaret.DataAccessLayer.Abstracts;
-using ETicaret.DataAccessLayer.Concretes.Contexts;
-using ETicaret.EntityLayer.Abstracts;
+﻿using Eticaret.Core.Models;
+using Eticaret.Repositories;
+using ETicaret.DataAccesLayer.Concretes.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
-namespace ETicaret.DataAccessLayer.Repositories
+namespace ETicaret.DataAccesLayer.Repositories
 {
     public class EfRepositoyBase<TEntity> : IGenericDal<TEntity>
         where TEntity : class, IEntity, new()
@@ -34,7 +33,7 @@ namespace ETicaret.DataAccessLayer.Repositories
         {
             using (ApplicationDbContext context = new ApplicationDbContext())
             {
-                var deleteModel =  await context.Set<TEntity>().FindAsync(id);
+                var deleteModel = await context.Set<TEntity>().FindAsync(id);
                 if (deleteModel is null)
                     return false;
 
@@ -46,9 +45,9 @@ namespace ETicaret.DataAccessLayer.Repositories
 
         public async Task<TEntity> GetAsync(Expression<Func<TEntity, bool>> filter)
         {
-            using (ApplicationDbContext context= new ApplicationDbContext())
+            using (ApplicationDbContext context = new ApplicationDbContext())
             {
-                return await context.Set<TEntity>().FindAsync(filter);
+                return await context.Set<TEntity>().SingleOrDefaultAsync(filter);
             }
         }
 

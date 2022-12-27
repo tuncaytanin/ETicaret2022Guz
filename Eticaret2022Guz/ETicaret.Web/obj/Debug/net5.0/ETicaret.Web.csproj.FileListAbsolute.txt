@@ -1,3 +1,42 @@
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.exe
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.runtimeconfig.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.runtimeconfig.dev.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.Views.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.Views.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.RazorAssemblyInfo.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.RazorAssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\scopedcss\bundle\ETicaret.Web.styles.css
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\staticwebassets\ETicaret.Web.StaticWebAssets.Manifest.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.TagHelpers.input.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.TagHelpers.output.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.RazorCoreGenerate.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.RazorTargetAssemblyInfo.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.RazorTargetAssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.Views.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\refint\ETicaret.Web.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.genruntimeconfig.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ref\ETicaret.Web.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.Web\obj\Debug\net5.0\ETicaret.Web.csproj.CopyComplete
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\appsettings.Development.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\appsettings.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.Web\bin\Debug\net5.0\ETicaret.Web.exe

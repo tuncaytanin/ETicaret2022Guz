@@ -1,4 +1,4 @@
-﻿using ETicaret.EntityLayer.Concretes;
+﻿using Eticaret.Core.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 

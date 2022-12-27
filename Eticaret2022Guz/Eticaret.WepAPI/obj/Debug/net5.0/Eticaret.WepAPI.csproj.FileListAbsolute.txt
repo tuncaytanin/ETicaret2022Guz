@@ -1,3 +1,69 @@
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.exe
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.runtimeconfig.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.runtimeconfig.dev.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.BussinessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\scopedcss\bundle\Eticaret.WepAPI.styles.css
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\Eticaret.WepAPI.StaticWebAssets.Manifest.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.RazorTargetAssemblyInfo.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.csproj.CopyComplete
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\refint\Eticaret.WepAPI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.genruntimeconfig.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\ref\Eticaret.WepAPI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\appsettings.Development.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\appsettings.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.exe
@@ -6,9 +72,12 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Etica
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.runtimeconfig.dev.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.WepAPI.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Humanizer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
@@ -19,7 +88,6 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Micro
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -41,11 +109,11 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runti
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.BussinessLayer.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccessLayer.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.EntityLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.EntityLayer.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccessLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.csproj.AssemblyReference.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.AssemblyInfoInputs.cache

@@ -1,13 +1,10 @@
-﻿using ETicaret.DataAccessLayer.Mappings;
-using ETicaret.EntityLayer.Concretes;
+﻿
+using Eticaret.Core.Models;
+using ETicaret.DataAccesLayer.Mappings;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ETicaret.DataAccessLayer.Concretes.Contexts
+
+namespace ETicaret.DataAccesLayer.Concretes.Contexts
 {
     /// <summary>
     /// Ef  Db Process....
@@ -22,6 +19,7 @@ namespace ETicaret.DataAccessLayer.Concretes.Contexts
         // Enttiy ile veritabanı arasındaki ilişki sağlıyor
         DbSet<Customer> Customers { get; set; }
         DbSet<Category> Categories { get; set; }
+        DbSet<Role> Roles { get; set; }
 
 
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
@@ -48,6 +46,7 @@ namespace ETicaret.DataAccessLayer.Concretes.Contexts
 
             modelBuilder.ApplyConfiguration(new CustomerMap());
             modelBuilder.ApplyConfiguration(new CategoryMap());
+            modelBuilder.ApplyConfiguration(new RoleMap());
 
         }
     }

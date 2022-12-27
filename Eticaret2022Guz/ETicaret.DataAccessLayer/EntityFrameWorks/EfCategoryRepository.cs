@@ -1,14 +1,14 @@
-﻿using ETicaret.DataAccessLayer.Abstracts;
-using ETicaret.DataAccessLayer.Concretes.Contexts;
-using ETicaret.DataAccessLayer.Repositories;
-using ETicaret.EntityLayer.Abstracts;
-using ETicaret.EntityLayer.Concretes;
+﻿using Eticaret.Core.Models;
+using Eticaret.Repositories;
+using ETicaret.DataAccesLayer.Concretes.Contexts;
+using ETicaret.DataAccesLayer.Repositories;
+
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ETicaret.DataAccessLayer.EntityFrameWorks
+namespace ETicaret.DataAccesLayer.EntityFrameWorks
 {
     public class EfCategoryRepository : EfRepositoyBase<Category>, ICategoryDal
     {

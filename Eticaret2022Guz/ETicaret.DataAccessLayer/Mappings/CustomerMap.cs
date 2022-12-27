@@ -1,9 +1,9 @@
-﻿using ETicaret.EntityLayer.Concretes;
+﻿using Eticaret.Core.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using System;
 
-namespace ETicaret.DataAccessLayer.Mappings
+namespace ETicaret.DataAccesLayer.Mappings
 {
     /// <summary>
     /// Customer entity veritabanı modellemesi
@@ -54,5 +54,6 @@ namespace ETicaret.DataAccessLayer.Mappings
             //    .Property(x => x.AdressName).HasMaxLength(50).IsRequired();
 
         }
+   
     }
 }

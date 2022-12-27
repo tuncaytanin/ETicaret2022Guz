@@ -1,11 +1,63 @@
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.exe
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.deps.json
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.json
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.dev.json
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.exe
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.dev.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.EntityLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.FormCustomer.resources
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.GenerateResource.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CopyComplete
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\refint\Eticaret.Desktop.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.genruntimeconfig.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\ref\Eticaret.Desktop.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.AssemblyReference.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.FormCustomer.resources
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.GenerateResource.cache
@@ -13,6 +65,51 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-wind
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfoInputs.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfo.cs
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CoreCompileInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.exe
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.deps.json
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.json
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.dev.json
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CopyComplete
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\refint\Eticaret.Desktop.dll

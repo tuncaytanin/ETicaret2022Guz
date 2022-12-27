@@ -1,11 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Eticaret2022Guz",
-    "\\Eticaret2022Guz\\ETicaret.DataAccessLayer",
-    "\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\Concrate",
-    "\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\Repositories"
+    ""
   ],
-  "SelectedNode": "\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\Repositories\\EntityRepositoryBase.cs",
   "PreviewInSolutionExplorer": false
 }

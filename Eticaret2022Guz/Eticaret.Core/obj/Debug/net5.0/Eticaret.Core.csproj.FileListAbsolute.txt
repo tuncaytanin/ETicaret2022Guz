@@ -1,3 +1,15 @@
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\refint\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Core\obj\Debug\net5.0\ref\Eticaret.Core.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.deps.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Core\bin\Debug\net5.0\Eticaret.Core.pdb

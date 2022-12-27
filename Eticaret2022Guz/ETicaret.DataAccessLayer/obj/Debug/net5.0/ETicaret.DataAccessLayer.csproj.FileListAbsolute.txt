@@ -16,3 +16,21 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.genruntimeconfig.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ref\ETicaret.DataAccessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.runtimeconfig.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.runtimeconfig.dev.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.csproj.CopyComplete
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ref\ETicaret.DataAccessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\ETicaret.DataAccessLayer.genruntimeconfig.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.DataAccessLayer\obj\Debug\net5.0\refint\ETicaret.DataAccessLayer.dll

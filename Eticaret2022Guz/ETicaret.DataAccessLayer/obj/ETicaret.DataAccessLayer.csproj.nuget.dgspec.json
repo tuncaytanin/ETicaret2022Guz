@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {}
+    "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
+    "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
         "projectName": "ETicaret.DataAccessLayer",
-        "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\tunca\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
-                "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj"
+              "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
+    "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
         "projectName": "ETicaret.EntityLayer",
-        "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\ETicaret.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\tunca\\.nuget\\packages\\",
-        "outputPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\tunca\\Downloads\\ETicaret2022Guz-Development (1)\\ETicaret2022Guz-Development\\Eticaret2022Guz\\ETicaret.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tunca\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

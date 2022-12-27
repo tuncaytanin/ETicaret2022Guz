@@ -1,4 +1,6 @@
-﻿using ETicaret.EntityLayer.Concretes;
+﻿using Eticaret.Core.Dtos.Customer;
+using Eticaret.Core.Helpers.JWT;
+using Eticaret.Core.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,5 +21,7 @@ namespace ETicaret.BussinessLayer.Abstract
         Task<Customer> GetAsync(Expression<Func<Customer, bool>> filter);
 
         Task<Customer> GetModelByIdAsync(int id);
+
+        Task<AccessToken> Authenticate(CustomerForLoginDto customerForLoginDto);
     }
 }

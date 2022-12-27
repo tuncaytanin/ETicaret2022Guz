@@ -1,16 +1,11 @@
-﻿using ETicaret.BussinessLayer.Abstract;
-using ETicaret.BussinessLayer.Concrete;
-using ETicaret.EntityLayer.Concretes;
-using Microsoft.AspNetCore.Http;
+﻿using Eticaret.Core.Models;
+using Eticaret.Core.Services;
 using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 
 namespace Eticaret.WepAPI.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class CustomerController : ControllerBase
+    public class CustomerController : CustomBaseController
     {
        private ICustomerService _customerService;
 
@@ -20,57 +15,51 @@ namespace Eticaret.WepAPI.Controllers
         }
 
         [HttpGet]
-        [Route("[action]")]
+
         public async Task<IActionResult> GetList()
         {
-          var result=  await _customerService.GetListAsync(x => x.CustomerStatus == true);
-            if (result is not null)
-                return Ok(result);
-            return BadRequest();
+            return CreateActionResult(await _customerService.GetListAsync(x => x.CustomerStatus == true));
         }
 
         [HttpGet]
-        [Route("[action]/{id:int}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var result = await _customerService.GetModelByIdAsync(id);
-            if (result is not null)
-                return Ok(result);
-            return NotFound();
+            return CreateActionResult(await _customerService.GetModelByIdAsync(id));
         }
 
         [HttpPost]
-        [Route("[action]")]
+  
         public async Task<IActionResult> Add([FromBody] Customer customer)
         {
-            var result = await _customerService.AddAsync(customer);
-            if (result is not null)
-                return Ok(customer);
-            return BadRequest(result);
+            return CreateActionResult(await _customerService.AddAsync(customer));
         }
 
 
         [HttpPut]
-        [Route("[action]")]
+
         public async Task<IActionResult> Update([FromBody] Customer customer)
         {
-            var result = await _customerService.UpdateAsync(customer);
-            if (result is not null)
-                return Ok(result);
-            
-            return BadRequest(result);
+            return CreateActionResult(await _customerService.UpdateAsync(customer));
         }
 
         [HttpDelete]
-        [Route("[action]/{id:int}")]
+        [Route("{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var result = await _customerService.DeleteByIdAsync(id);
-            if (result)
-                return Ok(result);
-            
-            return BadRequest(result);
+            return CreateActionResult(await _customerService.DeleteByIdAsync(id));
         }
+
+        //[AllowAnonymous] // Authorize olmadan erişilebilirlik sağlıyor...
+        //[HttpPost]
+        //[Route("[action]")]
+        //public async Task<IActionResult> Authenticate([FromBody] CustomerForLoginDto customerForLoginDto)
+        //{
+        //    var result = await _customerService.Authenticate(customerForLoginDto);
+        //    if (result is not null)
+        //        return Ok(result);
+        //    return BadRequest(result);
+        //}
 
     }
 }

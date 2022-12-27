@@ -1,10 +1,23 @@
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.deps.json
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\Eticaret.Core.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.AssemblyInfo.cs
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.CopyComplete
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\refint\ETicaret.BussinessLayer.dll
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.pdb
+C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ref\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.deps.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.dll
-C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.DataAccessLayer.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\ETicaret.EntityLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\Eticaret.Core.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\bin\Debug\net5.0\Eticaret.Core.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.csproj.AssemblyReference.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\github\ETicaret2022Guz\Eticaret2022Guz\ETicaret.BussinessLayer\obj\Debug\net5.0\ETicaret.BussinessLayer.AssemblyInfoInputs.cache

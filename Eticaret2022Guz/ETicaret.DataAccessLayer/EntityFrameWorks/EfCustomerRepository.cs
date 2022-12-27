@@ -1,8 +1,10 @@
-﻿using ETicaret.DataAccessLayer.Abstracts;
-using ETicaret.DataAccessLayer.Repositories;
-using ETicaret.EntityLayer.Concretes;
+﻿
+using Eticaret.Core.Models;
+using Eticaret.Repositories;
+using ETicaret.DataAccesLayer.Repositories;
 
-namespace ETicaret.DataAccessLayer.EntityFrameWorks
+
+namespace ETicaret.DataAccesLayer.EntityFrameWorks
 {
     public class EfCustomerRepository : EfRepositoyBase<Customer>, ICustomerDal
     {

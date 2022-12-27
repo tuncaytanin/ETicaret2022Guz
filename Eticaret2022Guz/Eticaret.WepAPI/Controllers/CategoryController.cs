@@ -1,15 +1,11 @@
-﻿using ETicaret.BussinessLayer.Abstract;
-using ETicaret.BussinessLayer.Concrete;
-using ETicaret.EntityLayer.Concretes;
-using Microsoft.AspNetCore.Http;
+﻿using Eticaret.Core.Models;
+using Eticaret.Core.Services;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace Eticaret.WepAPI.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
-    public class CategoryController : ControllerBase
+    public class CategoryController : CustomBaseController
     {
 
         private readonly ICategoryService _ICategoryService;
@@ -23,30 +19,24 @@ namespace Eticaret.WepAPI.Controllers
         [Route("[action]")]
         public async Task<IActionResult> GetList()
         {
-            var result = await _ICategoryService.GetListAsync(x => x.CategoryStatus == true);
-            if (result is not null)
-                return Ok(result);
-            return NotFound(result);
+            //var result = await _ICategoryService.GetListAsync(x => x.CategoryStatus == true); // CustomerResponseData<T>
+            //if (result is not null)
+            //    return Ok(result);
+            return CreateActionResult(await _ICategoryService.GetListAsync(x => x.CategoryStatus == true));
         }
 
         [HttpGet]
         [Route("[action]/{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
-            var result = await _ICategoryService.GetModelByIdAsync(id);
-            if (result is not null)
-                return Ok(result);
-            return NotFound(result);
-        }
+            return CreateActionResult(await _ICategoryService.GetModelByIdAsync(id));
 
+        }
         [HttpPost]
         [Route("[action]")]
         public async Task<IActionResult> Add([FromBody] Category category)
         {
-            var result = await _ICategoryService.AddAsync(category);
-            if (result is not null)
-                return Ok(result);
-            return BadRequest(result);
+            return CreateActionResult(await _ICategoryService.AddAsync(category));
         }
 
         [HttpDelete]
@@ -54,10 +44,7 @@ namespace Eticaret.WepAPI.Controllers
 
         public async Task<IActionResult> Delete(int id)
         {
-            var  result = await _ICategoryService.DeleteByIdAsync(id);
-            if (result)
-                return Ok(result);
-            return NotFound(result);
+            return CreateActionResult(await _ICategoryService.DeleteByIdAsync(id));
         }
 
 
@@ -66,10 +53,8 @@ namespace Eticaret.WepAPI.Controllers
 
         public async Task<IActionResult> GetLast3()
         {
-            var result = await _ICategoryService.Get3CategoryAsync();
-            if (result is not null)
-                return Ok(result);
-            return BadRequest(result);
+           return this.CreateActionResult(await _ICategoryService.Get3CategoryAsync());
+
         }
 
         [HttpPut]
@@ -77,10 +62,7 @@ namespace Eticaret.WepAPI.Controllers
 
         public async Task<IActionResult> Update([FromBody] Category category)
         {
-            var result = await _ICategoryService.UpdateAsync(category);
-            if (result is not null)
-                return Ok(result);
-            return BadRequest(result);
+            return CreateActionResult(await _ICategoryService.UpdateAsync(category));
         }
 
     }
