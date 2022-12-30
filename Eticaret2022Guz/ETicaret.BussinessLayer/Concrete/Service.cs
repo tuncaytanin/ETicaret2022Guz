@@ -30,10 +30,11 @@ namespace ETicaret.BussinessLayer.Concrete
 
         public async Task<CustomResponseDto<bool>> DeleteByIdAsync(int id)
         {
-            var deleteEntity = await _genericDal.GetModelByIdAsync(id);
-            if (deleteEntity is not null)
-            {
+           // var deleteEntity = await _genericDal.GetModelByIdAsync(id);
+  
                 var sonuc = await _genericDal.DeleteByIdAsync(id);
+            if (sonuc)
+            {
                 return CustomResponseDto<bool>.Succes(200, sonuc);
             }
 

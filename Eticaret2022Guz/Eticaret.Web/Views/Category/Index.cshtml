@@ -1,0 +1,40 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<Category>
+
+<h2> Kategorilerimiz </h2>
+<br />
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Durumu</th>
+            <th>Sıra No</th>
+            <th>İşlem</th>
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model)
+        {
+            <tr>
+                <td>@category.CategoryId</td>
+                <td>@category.CategoryName</td>
+                <td>@category.CategoryStatus</td>
+                <td>@category.SortKey</td>
+                <td>
+                    <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@category.CategoryId"> Silme</a>&nbsp;
+                    <a class="btn btn-secondary"> Güncelle</a>&nbsp;
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
