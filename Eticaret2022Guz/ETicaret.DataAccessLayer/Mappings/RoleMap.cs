@@ -16,9 +16,9 @@ namespace ETicaret.DataAccesLayer.Mappings
             modelbuilder.HasData(new Role
             {
                 RoleId = 1,
-                RoleName="Admin",
-                RoleStatu =true,
-                RoleDescription ="Admin kullanıcıları için oluşturuğumuz role"
+                RoleName = "Admin",
+                RoleStatu = true,
+                RoleDescription = "Admin kullanıcıları için oluşturuğumuz role"
             });
         }
     }

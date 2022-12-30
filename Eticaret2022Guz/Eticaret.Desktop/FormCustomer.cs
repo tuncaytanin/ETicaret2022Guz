@@ -1,13 +1,8 @@
 ﻿using Eticaret.Core.Models;
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Json;
-using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -33,9 +28,9 @@ namespace Eticaret.Desktop
 
         private async Task UyeleriListele()
         {
-            using (HttpClient httpClient  = new HttpClient())
+            using (HttpClient httpClient = new HttpClient())
             {
-                var customers = await httpClient.GetFromJsonAsync<List<Customer>>(new Uri(url+ "Customer/GetList"));
+                var customers = await httpClient.GetFromJsonAsync<List<Customer>>(new Uri(url + "Customer/GetList"));
                 dtgvCustomers.DataSource = customers;
             }
         }
@@ -80,7 +75,7 @@ namespace Eticaret.Desktop
             txtCustomerUserName.Text = string.Empty;
             txtEmail.Text = string.Empty;
             txtPhone.Text = string.Empty;
-            
+
         }
 
         private void dtgvCustomers_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
@@ -105,7 +100,7 @@ namespace Eticaret.Desktop
             bool aktifEt = false;
             if (!string.IsNullOrEmpty(txtCustomerId.Text))
             {
-                if (int.Parse(txtCustomerId.Text) > 0 )
+                if (int.Parse(txtCustomerId.Text) > 0)
                 {
                     aktifEt = true;
 

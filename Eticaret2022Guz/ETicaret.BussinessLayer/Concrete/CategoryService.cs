@@ -2,9 +2,7 @@
 using Eticaret.Core.Models;
 using Eticaret.Core.Services;
 using Eticaret.Repositories;
-using System;
 using System.Collections.Generic;
-using System.Linq.Expressions;
 using System.Threading.Tasks;
 
 namespace ETicaret.BussinessLayer.Concrete
@@ -14,7 +12,7 @@ namespace ETicaret.BussinessLayer.Concrete
 
         private readonly ICategoryDal _categoryDal;
 
-        public CategoryService(ICategoryDal categoryDal,IGenericDal<Category> genericDal):base(genericDal)
+        public CategoryService(ICategoryDal categoryDal, IGenericDal<Category> genericDal) : base(genericDal)
         {
             _categoryDal = categoryDal;
         }

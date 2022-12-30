@@ -1,27 +1,22 @@
 ﻿using Eticaret.Core.Models;
 using Eticaret.Core.Services;
 using Eticaret.Repositories;
-using Microsoft.Extensions.Options;
-using System;
-using System.Collections.Generic;
-using System.Linq.Expressions;
-using System.Threading.Tasks;
 
 namespace ETicaret.BussinessLayer.Concrete
 {
     public class CustomerService : Service<Customer>, ICustomerService
     {
-       private  readonly ICustomerDal _customerDal;
+        private readonly ICustomerDal _customerDal;
 
         //private readonly AppSettings _appSettings;
 
-        public CustomerService(IGenericDal<Customer> genericDal, ICustomerDal customerDal):base(genericDal)
+        public CustomerService(IGenericDal<Customer> genericDal, ICustomerDal customerDal) : base(genericDal)
         {
             _customerDal = customerDal;
             //_appSettings = appSettings.Value;
         }
 
-     
+
 
         //public async Task<Customer> AddAsync(Customer customer)
         //{
@@ -41,7 +36,7 @@ namespace ETicaret.BussinessLayer.Concrete
 
         ////    //if (customer.TokenExpireDate < DateTime.UtcNow || customer.TokenExpireDate == null ||string.IsNullOrEmpty(customer.Token))
         ////    //{
-                
+
         ////    //}
 
         ////    var tokenHandler = new JwtSecurityTokenHandler();
@@ -78,7 +73,7 @@ namespace ETicaret.BussinessLayer.Concrete
         //public async Task<Customer> GetAsync(Expression<Func<Customer, bool>> filter)
         //{
         //    return await _customerDal.GetAsync(filter);
-            
+
         //}
 
         //public async Task<List<Customer>> GetListAsync(Expression<Func<Customer, bool>> filter = null)

@@ -1,15 +1,12 @@
 ﻿using Eticaret.Core.Models;
 using Eticaret.Core.Services;
-using Eticaret.Repositories;
-using ETicaret.BussinessLayer.Concrete;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 
 namespace Eticaret.WepAPI.Controllers
 {
 
-    public class RoleController :CustomBaseController
+    public class RoleController : CustomBaseController
     {
 
         private readonly IRolService _rolService;

@@ -1,7 +1,4 @@
-﻿
-using System.Collections.Generic;
-
-namespace Eticaret.Core.Models
+﻿namespace Eticaret.Core.Models
 {
     public class Category : IEntity
     {
@@ -11,6 +8,6 @@ namespace Eticaret.Core.Models
 
         public short SortKey { get; set; }
 
-      //  public ICollection<SubCategory> SubCategories { get; set; }
+        //  public ICollection<SubCategory> SubCategories { get; set; }
     }
 }

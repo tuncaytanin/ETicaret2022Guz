@@ -53,7 +53,7 @@ namespace Eticaret.WepAPI.Controllers
 
         public async Task<IActionResult> GetLast3()
         {
-           return this.CreateActionResult(await _ICategoryService.Get3CategoryAsync());
+            return this.CreateActionResult(await _ICategoryService.Get3CategoryAsync());
 
         }
 

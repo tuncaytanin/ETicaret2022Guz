@@ -8,7 +8,7 @@ namespace ETicaret.BussinessLayer.Concrete
     {
         private readonly IRolDal _rolDal;
 
-        public RoleService(IGenericDal<Role> genericDal,IRolDal rolDal):base(genericDal)
+        public RoleService(IGenericDal<Role> genericDal, IRolDal rolDal) : base(genericDal)
         {
             _rolDal = rolDal;
         }

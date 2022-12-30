@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.17" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.17">
       <PrivateAssets>all</PrivateAssets>
@@ -15,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ETicaret.BussinessLayer\ETicaret.BussinessLayer.csproj" />
+    <ProjectReference Include="..\Eticaret.Core\Eticaret.Core.csproj" />
     <ProjectReference Include="..\ETicaret.DataAccessLayer\ETicaret.DataAccesLayer.csproj" />
   </ItemGroup>
 

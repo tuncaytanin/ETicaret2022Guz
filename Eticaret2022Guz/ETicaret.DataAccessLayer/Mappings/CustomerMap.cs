@@ -54,6 +54,6 @@ namespace ETicaret.DataAccesLayer.Mappings
             //    .Property(x => x.AdressName).HasMaxLength(50).IsRequired();
 
         }
-   
+
     }
 }

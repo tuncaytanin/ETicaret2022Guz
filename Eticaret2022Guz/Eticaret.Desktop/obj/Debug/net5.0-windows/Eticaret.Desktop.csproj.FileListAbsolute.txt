@@ -58,13 +58,6 @@ C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Develop
 C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.dll
 C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.pdb
 C:\Users\tunca\Downloads\ETicaret2022Guz-Development (1)\ETicaret2022Guz-Development\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.AssemblyReference.cache
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.FormCustomer.resources
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.GenerateResource.cache
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.GeneratedMSBuildEditorConfig.editorconfig
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfoInputs.cache
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfo.cs
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CoreCompileInputs.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.exe
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.deps.json
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Desktop.runtimeconfig.json
@@ -110,6 +103,13 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-wind
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\ETicaret.DataAccesLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\bin\Debug\net5.0-windows\Eticaret.Core.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.AssemblyReference.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.FormCustomer.resources
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.GenerateResource.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfoInputs.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.AssemblyInfo.cs
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CoreCompileInputs.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.csproj.CopyComplete
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\Eticaret.Desktop.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Desktop\obj\Debug\net5.0-windows\refint\Eticaret.Desktop.dll

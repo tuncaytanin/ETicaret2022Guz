@@ -232,6 +232,9 @@
               "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.BussinessLayer\\ETicaret.BussinessLayer.csproj": {
                 "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.BussinessLayer\\ETicaret.BussinessLayer.csproj"
               },
+              "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\Eticaret.Core\\Eticaret.Core.csproj": {
+                "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\Eticaret.Core\\Eticaret.Core.csproj"
+              },
               "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccesLayer.csproj": {
                 "projectPath": "C:\\github\\ETicaret2022Guz\\Eticaret2022Guz\\ETicaret.DataAccessLayer\\ETicaret.DataAccesLayer.csproj"
               }
@@ -248,6 +251,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[5.0.17, )"

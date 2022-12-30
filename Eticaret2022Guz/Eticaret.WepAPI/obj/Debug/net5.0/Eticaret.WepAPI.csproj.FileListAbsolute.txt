@@ -112,8 +112,8 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETica
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.BussinessLayer.pdb
-C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Eticaret.Core.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\ETicaret.DataAccesLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.csproj.AssemblyReference.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.AssemblyInfoInputs.cache
@@ -130,3 +130,6 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\refin
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\Eticaret.WepAPI.genruntimeconfig.cache
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\ref\Eticaret.WepAPI.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Autofac.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

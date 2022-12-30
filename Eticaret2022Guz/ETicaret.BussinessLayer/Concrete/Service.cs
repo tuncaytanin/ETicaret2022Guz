@@ -1,12 +1,9 @@
 ﻿using Eticaret.Core.Dtos.Response;
-using Eticaret.Core.Models;
 using Eticaret.Core.Services;
 using Eticaret.Repositories;
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace ETicaret.BussinessLayer.Concrete
@@ -20,7 +17,7 @@ namespace ETicaret.BussinessLayer.Concrete
         }
         public async Task<CustomResponseDto<T>> AddAsync(T entity)
         {
-           var addedEntity =   await _genericDal.AddAsync(entity);
+            var addedEntity = await _genericDal.AddAsync(entity);
 
             if (addedEntity is not null)
             {
@@ -28,7 +25,7 @@ namespace ETicaret.BussinessLayer.Concrete
             }
 
 
-            return CustomResponseDto<T>.Fail(404,$"{typeof(T)} eklenirken beklenmedik bir hata oluştu");
+            return CustomResponseDto<T>.Fail(404, $"{typeof(T)} eklenirken beklenmedik bir hata oluştu");
         }
 
         public async Task<CustomResponseDto<bool>> DeleteByIdAsync(int id)
@@ -36,7 +33,7 @@ namespace ETicaret.BussinessLayer.Concrete
             var deleteEntity = await _genericDal.GetModelByIdAsync(id);
             if (deleteEntity is not null)
             {
-                var sonuc=  await _genericDal.DeleteByIdAsync(id);
+                var sonuc = await _genericDal.DeleteByIdAsync(id);
                 return CustomResponseDto<bool>.Succes(200, sonuc);
             }
 
@@ -56,7 +53,7 @@ namespace ETicaret.BussinessLayer.Concrete
         {
             // Categori GetList, Customer GetList, Product GetList ..... Bütün getList ler buradan çağırılıyor...
 
-            var entities  = await _genericDal.GetListAsync(filter);
+            var entities = await _genericDal.GetListAsync(filter);
 
             if (entities is null)
             {
@@ -68,7 +65,7 @@ namespace ETicaret.BussinessLayer.Concrete
 
         public async Task<CustomResponseDto<T>> GetModelByIdAsync(int id)
         {
-           var entity =  await _genericDal.GetModelByIdAsync(id);
+            var entity = await _genericDal.GetModelByIdAsync(id);
             if (entity is not null)
                 return CustomResponseDto<T>.Succes(200, entity);
 
@@ -77,7 +74,7 @@ namespace ETicaret.BussinessLayer.Concrete
 
         public async Task<CustomResponseDto<T>> UpdateAsync(T entity)
         {
-            var updatedEntity=  await _genericDal.UpdateAsync(entity);
+            var updatedEntity = await _genericDal.UpdateAsync(entity);
 
             if (updatedEntity is not null)
             {

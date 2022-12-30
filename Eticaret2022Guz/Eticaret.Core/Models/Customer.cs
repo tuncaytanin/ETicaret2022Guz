@@ -1,15 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 
 namespace Eticaret.Core.Models
 {
     public class Customer : IEntity
     {
-       
+
         public int CustomerId { get; set; }
 
-  
+
         public string CustomerName { get; set; }
         public string CustomerLastName { get; set; }
 
@@ -24,7 +22,7 @@ namespace Eticaret.Core.Models
 
         public bool CustomerStatus { get; set; }
 
-        public string PhoneNumber { get; set; } 
+        public string PhoneNumber { get; set; }
 
         public string CustomerPassword { get; set; }
 

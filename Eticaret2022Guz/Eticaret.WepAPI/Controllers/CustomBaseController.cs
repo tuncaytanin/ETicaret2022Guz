@@ -1,5 +1,4 @@
 ﻿using Eticaret.Core.Dtos.Response;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Eticaret.WepAPI.Controllers

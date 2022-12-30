@@ -7,7 +7,7 @@ namespace Eticaret.WepAPI.Controllers
 {
     public class CustomerController : CustomBaseController
     {
-       private ICustomerService _customerService;
+        private ICustomerService _customerService;
 
         public CustomerController(ICustomerService customerService)
         {
@@ -29,7 +29,7 @@ namespace Eticaret.WepAPI.Controllers
         }
 
         [HttpPost]
-  
+
         public async Task<IActionResult> Add([FromBody] Customer customer)
         {
             return CreateActionResult(await _customerService.AddAsync(customer));
