@@ -18,12 +18,21 @@ namespace ETicaret.DataAccesLayer.Repositories
             // Veritabanı asenkron olarak veriyi ekler... Gelen veri türü neyse o veri türünü ekleri.
             using (ApplicationDbContext context = new ApplicationDbContext()) // Dispoisble yapmamızı sağlıyor. 
             {
+                try
+                {
+                    //context.Set<TEntity>() bu işlem gelen veri türüne göre DbContext mi ayarlar. Dolayısıyla yaptığımız işlemler bu veri tipine göre yapılır.
+                    await context.Set<TEntity>().AddAsync(entity);
 
-                //context.Set<TEntity>() bu işlem gelen veri türüne göre DbContext mi ayarlar. Dolayısıyla yaptığımız işlemler bu veri tipine göre yapılır.
-                await context.Set<TEntity>().AddAsync(entity);
+                    await context.SaveChangesAsync(); // 
+                    return entity;
+                }
+                catch (Exception hata)
+                {
 
-                await context.SaveChangesAsync(); // 
-                return entity;
+                    throw new Exception(hata.Message);
+                }
+
+
             }
 
 

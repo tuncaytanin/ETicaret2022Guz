@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+@model List<Role>
+
+<h2> Rollerimiz </h2>
+<br />
+<table class="table table-bordered">
+
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Adı</th>
+            <th>Durumu</th>
+            <th>Açıklama</th>
+            <th>İşlem</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var role in Model)
+        {
+            <tr>
+                <td>@role.RoleId</td>
+                <td>@role.RoleName</td>
+                <td>@role.RoleStatu</td>
+                <td>@role.RoleDescription</td>
+                <td>
+                    <a class="btn btn-danger" asp-controller="Role" asp-action="Delete" asp-route-id="@role.RoleId"> Silme</a>&nbsp;
+                    <a class="btn btn-secondary" asp-controller="Role" asp-action="Update" asp-route-id="@role.RoleId"> Güncelle</a>&nbsp;
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a class="btn btn-primary " asp-area=""  asp-controller="Role" asp-action="Add">Ekle</a>

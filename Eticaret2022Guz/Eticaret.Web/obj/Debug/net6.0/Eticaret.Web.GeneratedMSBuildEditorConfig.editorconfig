@@ -15,8 +15,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Category/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Home/Index.cshtml]
@@ -25,6 +33,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Role/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Role/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVxVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/github/ETicaret2022Guz/Eticaret2022Guz/Eticaret.Web/Views/Shared/Error.cshtml]

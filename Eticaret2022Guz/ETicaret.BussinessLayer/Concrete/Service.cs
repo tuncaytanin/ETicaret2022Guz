@@ -17,15 +17,24 @@ namespace ETicaret.BussinessLayer.Concrete
         }
         public async Task<CustomResponseDto<T>> AddAsync(T entity)
         {
-            var addedEntity = await _genericDal.AddAsync(entity);
-
-            if (addedEntity is not null)
+            try
             {
-                return CustomResponseDto<T>.Succes(200, addedEntity);
+                var addedEntity = await _genericDal.AddAsync(entity);
+
+                if (addedEntity is not null)
+                {
+                    return CustomResponseDto<T>.Succes(200, addedEntity);
+                }
+            }
+            catch (Exception hata)
+            {
+
+                return CustomResponseDto<T>.Fail(404, $"{typeof(T)} eklenirken beklenmedik bir hata oluştu.{hata.Message}");
             }
 
 
             return CustomResponseDto<T>.Fail(404, $"{typeof(T)} eklenirken beklenmedik bir hata oluştu");
+
         }
 
         public async Task<CustomResponseDto<bool>> DeleteByIdAsync(int id)
