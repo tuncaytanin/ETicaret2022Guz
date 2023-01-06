@@ -13,6 +13,7 @@ namespace Eticaret.Core.Models
 
 
         public ICollection<SubCategory> SubCategories { get; set; }
+        public ICollection<Product> Products { get; set; }
 
     }
 }

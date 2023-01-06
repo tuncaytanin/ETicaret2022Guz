@@ -1,6 +1,7 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Eticaret.Web.Modules;
+using Eticaret.Web.Services;
 using ETicaret.DataAccesLayer.Concretes.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
@@ -18,6 +19,13 @@ builder.Services.AddDbContext<ApplicationDbContext>(opt =>
     {
         x.MigrationsAssembly(Assembly.GetAssembly(typeof(ApplicationDbContext)).GetName().Name);
     });
+});
+
+
+
+builder.Services.AddHttpClient<CategoryApiService>(opt =>
+{
+    opt.BaseAddress = new Uri(builder.Configuration["BaseUrl"]); 
 });
 
 

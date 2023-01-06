@@ -6,5 +6,6 @@ namespace Eticaret.Repositories
     {
 
     }
+    
 
 }

@@ -133,3 +133,8 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\ref\E
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Autofac.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\Eticaret.WepAPI.StaticWebAssets.Pack.cache
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\msbuild.Eticaret.WepAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\msbuild.build.Eticaret.WepAPI.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Eticaret.WepAPI.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.WepAPI\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Eticaret.WepAPI.props

@@ -40,6 +40,7 @@ namespace Eticaret.Web.Modules
             builder.RegisterAssemblyTypes(apiAssembly, dalAssembley, blAssembley).Where(x => x.Name.EndsWith("Service")).AsImplementedInterfaces().InstancePerLifetimeScope();
 
 
+            builder.RegisterAssemblyTypes(apiAssembly, dalAssembley, blAssembley).Where(x => x.Name.EndsWith("ApiService")).AsImplementedInterfaces().InstancePerLifetimeScope();
         }
     }
 }

@@ -1,6 +1,7 @@
 ﻿using Eticaret.Core.Dtos.Response;
 using Eticaret.Core.Models;
 using Eticaret.Core.Services;
+using Eticaret.Web.Services;
 using ETicaret.BussinessLayer.Concrete;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
@@ -9,26 +10,27 @@ namespace Eticaret.Web.Controllers
 {
     public class CategoryController : Controller
     {
+        private readonly CategoryApiService _categoryApiService;
 
 
-        private readonly ICategoryService _categoryService;
+   //     private readonly ICategoryService _categoryService;
 
-        public CategoryController(ICategoryService categoryService)
+        public CategoryController(CategoryApiService categoryApiService)
         {
-            _categoryService = categoryService;
+            _categoryApiService = categoryApiService;
         }
 
         [HttpGet]
         public async Task<IActionResult> Index()
         {
-            CustomResponseDto<List<Category>> customResponseDto  = await _categoryService.GetListAsync();
+            CustomResponseDto<List<Category>> customResponseDto  = await _categoryApiService.GetListAsync();
             return View(customResponseDto.Data);
         }
 
  
         public async Task<IActionResult> Delete(int id)
         {
-            CustomResponseDto<bool> sonuc =  await _categoryService.DeleteByIdAsync(id);
+            bool sonuc =  await _categoryApiService.DeleteByIdAsync(id);
 
             return RedirectToAction(nameof(Index));
         }
@@ -49,7 +51,7 @@ namespace Eticaret.Web.Controllers
             if (ModelState.IsValid)
             {
 
-                var sonuc = await _categoryService.AddAsync(addCategory);
+                var sonuc = await _categoryApiService.AddAsync(addCategory);
                 if (sonuc.StatusCode == 200)
                 {
                     return RedirectToAction(nameof(Index));
@@ -63,7 +65,7 @@ namespace Eticaret.Web.Controllers
         [HttpGet]
         public async Task<IActionResult> Update(int id)
         {
-            var sonuc = await _categoryService.GetModelByIdAsync(id);
+            var sonuc = await _categoryApiService.GetModelByIdAsync(id);
             //List<bool> bools = new List<bool>() { true, false };
             //ViewBag.Status = new SelectList(bools,)
 
@@ -73,7 +75,7 @@ namespace Eticaret.Web.Controllers
         [HttpPost]
         public async Task<IActionResult> Update(Category updateCategory)
         {
-            var sonuc = await _categoryService.UpdateAsync(updateCategory);
+            var sonuc = await _categoryApiService.UpdateAsync(updateCategory);
             return RedirectToAction(nameof(Index));
         }
 
