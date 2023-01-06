@@ -69,3 +69,8 @@ C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\bin\Debug\net6.0\ETicaret
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\bin\Debug\net6.0\ETicaret.DataAccesLayer.pdb
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\bin\Debug\net6.0\ETicaret.BussinessLayer.dll
 C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\bin\Debug\net6.0\ETicaret.BussinessLayer.pdb
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\obj\Debug\net6.0\staticwebassets\msbuild.Eticaret.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Eticaret.Web.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Eticaret.Web.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Eticaret.Web.props
+C:\github\ETicaret2022Guz\Eticaret2022Guz\Eticaret.Web\obj\Debug\net6.0\staticwebassets.pack.json
